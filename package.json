@@ -1,0 +1,14 @@
+{
+  "name": "ideaportal-project",
+  "version": "0.1.0",
+  "description": "Innovation Project Knowledge Base skeleton",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "NODE_ENV=test node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
